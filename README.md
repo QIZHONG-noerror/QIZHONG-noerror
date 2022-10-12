@@ -1,4 +1,4 @@
-### 👋Hi~ I am Zhong Qi
+# 👋Hi~ I am Zhong Qi
 
 <!--
 **QIZHONG-noerror/QIZHONG-noerror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
